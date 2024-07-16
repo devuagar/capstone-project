@@ -1,0 +1,1 @@
+Here's my capstone project in which there is a dataset consists of inquiries and respective responses. there are many repetative inquiries so I made an AI model toh handle thosse inquiries by giving them the most accurate response 
